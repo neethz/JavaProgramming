@@ -1,4 +1,4 @@
-package FunctionalProgramming;
+package FunctionalProgramming.functions;
 
 import java.util.function.Supplier;
 
